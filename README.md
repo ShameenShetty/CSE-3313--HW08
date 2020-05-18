@@ -15,4 +15,4 @@ Learn to amplify or attenuate a particular range of frequencies.
 * We use the file *DSP_Filters_Electronics_Cookbook_Series_ch11.pdf* where it details the process that our shelving filter will use.
 * Our program will: 
   - Plot the magnitudes of the fft of the original signal and the fft of the filtered signal with the x-axis of both plots in Hertz.
-* If the fft of the original signal has *N* values, we will plot only the first <a href="https://www.codecogs.com/eqnedit.php?latex=\frac{N}{4}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\frac{N}{4}" title="\frac{N}{4}" /></a> values.
+* If the fft of the original signal has *N* values, we will plot only the first *N/4* values.
