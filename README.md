@@ -16,3 +16,6 @@ Learn to amplify or attenuate a particular range of frequencies.
 * Our program will: 
   - Plot the magnitudes of the fft of the original signal and the fft of the filtered signal with the x-axis of both plots in Hertz.
 * If the fft of the original signal has *N* values, we will plot only the first *N/4* values.
+* The y-axis of both plots should be from 0 to the maximum magnitude of the two signals, plus 100. For example, if the maximum magnitude for the original signal is 2000 and the maximum magnitude for the filtered signal is 1500, the y-axis for BOTH plots should be from 0 to 2100. For example,  
+
+![](https://github.com/ShameenShetty/CSE-3313--HW08/blob/master/Magnitudes%20of%20FFT%20of%20original%20and%20filtered%20signals.png)
